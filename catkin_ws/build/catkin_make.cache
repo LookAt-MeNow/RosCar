@@ -1,0 +1,2 @@
+mycar_description:mycar_start:nav:ros_arduino_bridge/ros_arduino_bridge:ros_arduino_bridge/ros_arduino_firmware:ros_arduino_bridge/ros_arduino_msgs:ros_arduino_bridge/ros_arduino_python:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/pai/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pai/catkin_ws/install -G Unix Makefiles

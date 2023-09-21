@@ -1,0 +1,5 @@
+<launch>
+        <include file="$(find ros_arduino_python)/launch/arduino.launch" />
+	<include file="$(find rplidar_ros)/launch/view_rplidar.launch" />
+        <include file="$(find mycar_description)/launch/car.launch" />
+</launch>
